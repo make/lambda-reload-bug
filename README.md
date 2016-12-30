@@ -26,3 +26,13 @@ Should output something like:
 #   http://bugreport.java.com/bugreport/crash.jsp
 #
 ```
+
+Tested with
+```
+~/git/lambda-reload-bug$ uname -a
+Linux markus-Precision-M4800 4.4.0-57-generic #78-Ubuntu SMP Fri Dec 9 23:50:32 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+
+~/git/lambda-reload-bug$ java -version
+java version "1.8.0_111"
+Java(TM) SE Runtime Environment (build 1.8.0_111-b14)
+Java HotSpot(TM) 64-Bit Server VM (build 25.111-b14, mixed mode)```
